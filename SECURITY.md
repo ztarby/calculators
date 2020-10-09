@@ -19,7 +19,7 @@ i will tell you some updates here but now i dont have anything
 |Language | Done |
 |---------|---------------|
 | C++         | :white_check_mark:|
-| C#          | :x: |
+| C#          | :white_check_mark: |
 | Python      | :x: |
 | Javascript  | :x: |
 | Java        | :x: |
