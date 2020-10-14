@@ -1,0 +1,63 @@
+ 'use strict';
+ console.log("     Bienvenidos a calculadora!");
+    var help = " Primero ponga su numero luego el operador: + de sumar - de restar x de multiplicar y / de dividir. y luego ponga el ultimo numero y ya esta";
+    console.log(help);
+    var suma = 0;
+
+  var fraseFinal = ["suma", "resta", "multiplicacion" , "division"];
+    var elegir = 0;
+
+    var reiniciar = true;
+    var sumar = true;
+
+    function calcul(a,oper,b) {
+
+    switch (oper) {
+        case ("+"): {
+            return a + b;
+            elegir = 0;
+            break;
+        }
+        case ("-"): {
+            return a - b;
+            elegir = 1;
+            break;
+        } case ("x"): {
+            return a * b;
+            elegir = 2;
+            break;
+        } case ("/"): {
+            return a / b;
+            elegir = 3;
+            break;
+        }
+        default: {
+            console.log("error");
+            sumar = false;
+        }
+    }
+    }
+    while (reiniciar) {
+        sumar = true;
+
+        var comand = prompt("Presione cualquier tecla y inicie o preciona h de ayuda o e para salir");
+        if (comand == "h") {
+            console.log(help);
+        } 
+        if (comand == "e") {
+            reiniciar = false;
+        }
+
+        var a = prompt("pon un numerito");
+        var op = prompt("+ o -");
+        var b = prompt("2 numero");
+
+        if (op == "/" && b == 0) {
+            console.log("we dont do that");
+            sumar = false;
+        }
+        if (sumar = true) {
+            suma = calcul(a, op, b);
+            console.log("La " + fraseFinal[elegir] + " es " + suma);
+        }
+    }
