@@ -4,7 +4,9 @@
 if the file says advance its because its advance
 if not well not
 
-dont clone the proyect because its a bad idea
+### Do not clone the repository
+
+recomend you copypaste the code (and giving credits me haha)
 
 ## C++ , C# , Python and (i think) more here!!
 Hope you like it
