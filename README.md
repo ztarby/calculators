@@ -4,6 +4,8 @@
 if the file says advance its because its advance
 if not well not
 
+### Patreon (https://www.patreon.com/Ztarby)
+
 ### Do not clone the repository
 
 recomend you copypaste the code (and giving credits me haha)
