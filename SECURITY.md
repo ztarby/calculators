@@ -23,7 +23,7 @@ for now we have 1.0
 | C++         | :white_check_mark:|
 | C#          | :white_check_mark: |
 | Python      | :white_check_mark: |
-| Javascript  | :x: |
+| Javascript  | :yellow_circle: |
 | Java        | :x: |
 | Visualbasic | :x: |
 
