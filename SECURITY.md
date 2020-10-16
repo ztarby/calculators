@@ -4,7 +4,9 @@ Updates and another things..........
 
 ## Supported Versions
 
-i will tell you some updates here but now i dont have anything
+Planing for the new version 1.3 that fixes some issues
+
+for now we have 1.0
 
 
 | Version | Supported          | 
@@ -20,7 +22,7 @@ i will tell you some updates here but now i dont have anything
 |---------|---------------|
 | C++         | :white_check_mark:|
 | C#          | :white_check_mark: |
-| Python      | :x: |
+| Python      | :white_check_mark: |
 | Javascript  | :x: |
 | Java        | :x: |
 | Visualbasic | :x: |
