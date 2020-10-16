@@ -17,6 +17,11 @@ for now we have 1.0
 ## Languages
 
 ### Some calculators i have done in diferent languages
+:white_check_mark:  Done
+
+:yellow_circle:  In beta
+
+:x: Not created
 
 |Language | Done |
 |---------|---------------|
